@@ -198,7 +198,7 @@ content p{
     color: skyblue;
     background: #fff;
     padding-top: -5rem;
-    margin-top: 2rem;     
+    /*margin-top: 2rem;*/     
 }
 
 .btn-secondary3:hover{
